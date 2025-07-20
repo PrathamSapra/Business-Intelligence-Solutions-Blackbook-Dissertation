@@ -1,14 +1,111 @@
 # Business-Intelligence-Solutions-Blackbook-Dissertation
 
-The aim of this project is to create an e-commerce website that sells tiles, marble, ply, and sunmica online, while also having an offline market through an Excel-based application. The project also incorporates data visualization using Power BI and performance testing using JMeter.
-The e-commerce website will provide an easy and accessible platform for customers to purchase their desired products, which will be categorized and presented in a user-friendly manner. 
+# 🛒 TileMart360: Integrated Online & Offline Shopping System
 
-In addition, the website will provide information on the products available, such as descriptions, sizes, and prices, to assist customers in making informed decisions.
-The offline application developed using Visual Basic will be used to manage the offline market and will serve as an alternative for customers who prefer to purchase their products in person. The application will have a similar layout to the e-commerce website and will be used by sales representatives to manage the orders, payments, and inventory of the offline store.
-The use of Power BI will enable users to visualize data from both the online and offline markets in a manner that is both informative and easy to understand. 
+## 📌 Project Overview
 
-This will provide insights into the performance of both markets and will assist in identifying trends and patterns that could impact the business.
-JMeter will be used to conduct performance testing on the website, which will help identify any issues with website speed, responsiveness, and scalability. This will assist in ensuring that the website can handle a large volume of traffic and will provide a smooth shopping experience for customers.
-In conclusion, the project will provide an integrated solution for managing both online and offline markets for a business selling tiles, marble, ply, and sunmica. 
+**TileMart360** is a hybrid e-commerce and retail solution designed to facilitate the buying and selling of **tiles, marble, plywood, and sunmica** through both **online and offline** platforms. This system merges the convenience of an **e-commerce website** with the accessibility of a **Visual Basic-based offline application**, and includes advanced **data visualization with Power BI** and **performance testing with JMeter**.
 
-By incorporating features such as an e-commerce website, an offline application, data visualization using Power BI, and performance testing using JMeter, the project aims to provide an effective and efficient solution that is beneficial for both the business and its customers.
+---
+
+## 🚀 Features
+
+### 🛍️ 1. E-Commerce Website
+- A user-friendly, accessible platform for customers to explore and purchase products online.
+- Well-structured product categorization for **tiles, marble, ply, and sunmica**.
+- Each product includes:
+  - ✅ Name
+  - 📏 Size
+  - 💵 Price
+  - 📝 Description
+- Seamless order placement with a responsive UI/UX.
+  
+### 🖥️ 2. Offline Market Application
+- Built using **Visual Basic for Applications (VBA)** in Excel.
+- Allows sales representatives to:
+  - 📦 Manage inventory
+  - 💰 Record and track payments
+  - 🧾 Handle offline orders
+- Mirrors the structure and categories of the online store for consistency.
+
+### 📊 3. Data Visualization with Power BI
+- Integrated **Power BI Dashboard** using `Shopping System.pbix`.
+- Visualizes key performance indicators (KPIs) from both:
+  - 🛒 Online sales
+  - 🏪 Offline (Excel-based) transactions
+- Enables:
+  - 📈 Trend analysis
+  - 📊 Sales performance monitoring
+  - 🔍 Customer purchase behavior insights
+
+### 🧪 4. Performance Testing with Apache JMeter
+- Load testing of the e-commerce website to ensure:
+  - ⚡ Speed
+  - 🤖 Scalability
+  - 📶 Responsiveness
+- Identifies performance bottlenecks and ensures a smooth shopping experience under heavy traffic.
+
+---
+
+## 📁 Repository Structure
+
+```
+📦 TileMart360/
+├── 📝 README.md
+├── 🌐 e-commerce-site/         # Online store frontend and backend code
+├── 📊 Shopping System.pbix     # Power BI dashboard for sales analytics
+├── 📂 offline-system/
+│   └── 📊 insights data.xlsm   # Excel/VBA-based application for offline sales
+├── 🔬 jmeter-tests/            # JMeter test scripts and reports
+```
+
+---
+
+## 💡 Business Objectives
+
+- **Hybrid Sales Model:** Cater to both digital-savvy and in-person customers.
+- **Centralized Inventory Management:** Unified control over product availability in both sales channels.
+- **Actionable Insights:** Empower decision-making through data-driven dashboards.
+- **Scalable Infrastructure:** Prepare the system to handle real-world traffic through rigorous testing.
+
+---
+
+## 🛠️ Tech Stack
+
+| Component           | Technology           |
+|--------------------|----------------------|
+| Online Platform     | HTML, CSS, JS, Backend (e.g., PHP/Python/Node) |
+| Offline System      | Excel + VBA (Macro-Enabled `.xlsm`) |
+| Data Visualization  | Microsoft Power BI (`.pbix`) |
+| Performance Testing | Apache JMeter        |
+
+---
+
+## 📌 How to Run
+
+### 🔵 Power BI
+1. Open `Shopping System.pbix` in **Power BI Desktop**.
+2. Refresh data connections if prompted.
+3. Explore dashboards and filters.
+
+### 🟡 Offline Application (Excel)
+1. Open `insights data.xlsm` in **Microsoft Excel (with Macros enabled)**.
+2. Navigate through forms and VBA scripts for offline order handling.
+
+### 🔴 JMeter Tests
+1. Install **Apache JMeter**.
+2. Load test plans from `jmeter-tests/`.
+3. Run tests and analyze results in the reports provided.
+
+---
+
+## 📈 Outcome
+
+This project delivers a **scalable**, **data-driven**, and **customer-friendly** commerce ecosystem for the construction/interior market. Whether your customer prefers **clicks** or **bricks**, TileMart360 has it covered.
+
+---
+
+## 📧 Contact
+
+For any questions or contributions, feel free to open an issue or reach out directly.
+
