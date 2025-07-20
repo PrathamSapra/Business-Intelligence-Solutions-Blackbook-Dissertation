@@ -1,7 +1,5 @@
 # Business-Intelligence-Solutions-Blackbook-Dissertation
 
-# 🛒 TileMart360: Integrated Online & Offline Shopping System
-
 ## 📌 Project Overview
 
 **TileMart360** is a hybrid e-commerce and retail solution designed to facilitate the buying and selling of **tiles, marble, plywood, and sunmica** through both **online and offline** platforms. This system merges the convenience of an **e-commerce website** with the accessibility of a **Visual Basic-based offline application**, and includes advanced **data visualization with Power BI** and **performance testing with JMeter**.
