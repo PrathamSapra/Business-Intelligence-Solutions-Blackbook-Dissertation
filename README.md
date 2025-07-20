@@ -97,6 +97,14 @@
 
 ---
 
+## 📈 Snapshots
+
+<img width="1377" height="769" alt="image" src="https://github.com/user-attachments/assets/33cf3741-a092-4952-a900-cc1c1e03eaa8" />
+
+
+<img width="319" height="506" alt="image" src="https://github.com/user-attachments/assets/cea2d870-e67e-4140-aa63-a527a5384c97" />
+
+
 ## 📈 Outcome
 
 This project delivers a **scalable**, **data-driven**, and **customer-friendly** commerce ecosystem for the construction/interior market. Whether your customer prefers **clicks** or **bricks**, TileMart360 has it covered.
